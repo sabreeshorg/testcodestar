@@ -9,7 +9,7 @@ What's Here
 
 This sample includes:
 
-* README.md - this file5
+* README.md - this file6
 * buildspec.yml - this file is used by AWS CodeBuild to package your
   application for deployment to AWS Lambda
 * requirements.txt - this file is used install Python dependencies needed by
