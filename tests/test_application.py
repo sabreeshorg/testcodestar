@@ -6,6 +6,7 @@ from helloworld.application import application
 def client():
     return application.test_client()
 
+
 def test_response(client):
     result = client.get()
     response_body = json.loads(result.get_data())
